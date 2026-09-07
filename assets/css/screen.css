@@ -2552,7 +2552,7 @@ summary h3{
   margin: 14px 18px !important;
   font-family: "Merriweather", serif;
   font-size: 15px !important;
-  line-height: 1.5 !important;
+  line-height: 16px !important;
   color: #333 !important;
 }
 
@@ -2637,7 +2637,6 @@ summary h3{
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 15px;
-  max-width: 1200px;
   margin-bottom: 18px;
 }
 

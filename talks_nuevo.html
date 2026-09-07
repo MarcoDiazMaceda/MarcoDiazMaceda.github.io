@@ -36,22 +36,34 @@ navigation: false
 
 
     <div class="resources">
+        
+    {% if talk.certificate %}
+        <a class="resource" href="{{ talk.certificate }}" target="_blank">
+            🏵️ Certificate
+        </a>
+    {% endif %}
 
     {% if talk.pdf %}
         <a class="resource" href="{{ talk.pdf }}" target="_blank">
-            📄 PDF
+            📝 Notes
         </a>
     {% endif %}
 
     {% if talk.slides %}
         <a class="resource" href="{{ talk.slides }}" target="_blank">
-            🖥 Slides
+            🖥️ Slides
         </a>
     {% endif %}
 
     {% if talk.video %}
         <a class="resource" href="{{ talk.video }}" target="_blank">
-            ▶ Video
+            🎥 Video
+        </a>
+    {% endif %}
+
+    {% if talk.prize %}
+        <a class="resource" href="{{ talk.prize }}" target="_blank">
+            🏆 Prize
         </a>
     {% endif %}
 
@@ -90,9 +102,16 @@ navigation: false
 
     <div class="resources">
 
+
+    {% if talk.certificate %}
+        <a class="resource" href="{{ talk.certificate }}" target="_blank">
+            🏵️ Certificate
+        </a>
+    {% endif %}
+
     {% if talk.pdf %}
         <a class="resource" href="{{ talk.pdf }}" target="_blank">
-            📄 PDF
+            🧾 Poster
         </a>
     {% endif %}
 

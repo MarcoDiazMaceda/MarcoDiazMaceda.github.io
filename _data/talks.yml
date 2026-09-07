@@ -5,6 +5,7 @@
   year: 2025
   place: CUNEF, Madrid, Spain
   pdf: ../assets/pdf/Kanatchikov_s_quantization__problems_and_perspectives.pdf
+  certificate: ../assets/pdf/certificates/CUNEF_1.pdf
 
 - workshop: Seminar for QMath
   workshop-link: http://www.q-math.es/
@@ -13,6 +14,7 @@
   year: 2026
   place: Universidad Carlos III, Madrid, Spain
   pdf: ../assets/pdf/Multisymplectic_formalism_for_manifolds_with_boundaries (10).pdf
+  certificate: ../assets/pdf/certificates/QMath.pdf
 
 - workshop: Seminar for the Geometrical Mathematical Physics Research group
   workshop-link: https://geommphys.github.io/
@@ -21,15 +23,17 @@
   year: 2026
   place: CUNEF, Madrid, Spain
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
+  certificate: ../assets/pdf/certificates/CUNEF_2.pdf
 
 - workshop: XX International Young Researchers Workshop on Geometry, Dynamics and Field Theory
   workshop-link: https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/yrw-gdft/
-  title: Multisymplectic formalism for manifolds with boundaries
+  title: Multisymplectic formalism for manifolds with boundary
   date: 25-27 March
   year: 2026
   place: Loughborough University, Loughborough, United Kingdom
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
   video: https://youtu.be/L7GiXm7l2io?si=Adbw74lplHP_XqnC
+  certificate: ../assets/pdf/certificates/Loughborough.pdf
 
 - workshop: XVIII International ICMAT Summer School on Geometry, Dynamics and Field Theory
   workshop-link: https://www.icmat.es/schools/2026/SUMMER-SCHOOL-GMC/index.php
@@ -38,6 +42,7 @@
   year: 2026
   place: Miraflores de la Sierra, Madrid, Spain
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
+  certificate: ../assets/pdf/certificates/Miraflores2026.pdf
 
 - workshop: 2nd International Workshop on Geometric Field Theory
   workshop-link: https://www.fuw.edu.pl/KMMF/GFT2026/
@@ -46,6 +51,8 @@
   year: 2026
   place: University of Warsaw, Warsaw, Poland
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
+  certificate: ../assets/pdf/certificates/Warsaw.pdf
+  prize: ../assets/pdf/certificates/Warsaw_BestTalk.pdf
 
 - workshop: Seminar of the Department of Mathematical Methods in Physics
   workshop-link: https://m.fuw.edu.pl/department-of-mathematical-methods-in-physics.html
@@ -54,14 +61,16 @@
   year: 2026
   place: University of Warsaw, Warsaw, Poland
   pdf: ../assets/pdf/Multisymplectic_formalism_for_manifolds_with_boundaries (10).pdf
+  certificate: ../assets/pdf/certificates/Warsaw_Seminar.pdf
 
 - workshop: Differential-Geometric and Topological Methods in Modern Physics
   workshop-link: https://sites.google.com/impan.pl/dgmp2026/programme
-  title: Multisymplectic formalism for manifolds with boundaries
+  title: "Multisymplectic manifolds with boundaries: a field-theoretic approach"
   date: 19-28 July
   year: 2026
   place: Bȩdlewo, Poland
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
+  certificate: ../assets/pdf/certificates/Bedlewo.pdf
   
 - workshop: XXXIV International Fall Workshop on Geometry and Physics
   workshop-link: https://webs-deim.urv.cat/~34ifwgp/index.html
@@ -70,4 +79,5 @@
   year: 2026
   place: Tarragona, Spain
   slides: ../assets/slides/FullAnimation_Warsaw_final2.html
+  certificate: ../assets/pdf/certificates/Tarragona.pdf
   
